@@ -24,3 +24,6 @@ class Question {
 }
 
 Question._All = []
+
+const why = new Question("Why?");
+console.log(Question.Find(1))
